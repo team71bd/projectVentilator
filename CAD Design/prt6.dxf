@@ -1,0 +1,16090 @@
+999
+FBX AutoCAD (*.DXF) exporter
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1008
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$TILEMODE
+ 70
+   1
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+ 70
+   1
+  0
+LTYPE
+  2
+CONTINUOUS
+ 70
+   64
+  3
+Solid line
+ 72
+   65
+ 73
+   0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+ 70
+   1
+  0
+LAYER
+  2
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 70
+   0
+ 62
+   254
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 66
+   1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   64
+ 71
+   304
+ 72
+   616
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-0.644882
+ 20
+12.078612
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+12.078612
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-0.644882
+ 20
+12.078612
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+12.078612
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-0.644882
+ 20
+9.518612
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+11.837334
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+11.837334
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+10.637008
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+10.637008
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+9.436682
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+9.436682
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+8.236356
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+8.236356
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+7.036030
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+7.036030
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+5.835703
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+5.835703
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+4.635377
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+4.635377
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+3.435051
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+3.435051
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-8.988799
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-8.988799
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-7.788473
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-7.788473
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-6.588146
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-6.588146
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-5.387820
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-5.387820
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-4.187494
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-4.187494
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.987168
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.987168
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-1.786842
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-1.786842
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-0.586515
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-0.586515
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+0.613811
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+0.613811
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+1.814137
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+1.814137
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+3.014463
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+3.014463
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+4.214790
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+4.214790
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+5.415116
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+5.415116
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+6.615442
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+6.615442
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+7.815768
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+7.815768
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+9.016094
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+9.016094
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+10.216420
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+10.216420
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.416746
+ 20
+3.163212
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.416746
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+2.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+3.435051
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+3.435051
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+4.635377
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+4.635377
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+5.835703
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+5.835703
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+7.036029
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+7.036029
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+8.236355
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+8.236355
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+9.436681
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+9.436681
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+10.637008
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+10.637008
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+11.837334
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+11.837334
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+12.078612
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+3.185118
+ 20
+12.078612
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+3.185118
+ 20
+9.518612
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.688882
+ 20
+7.078049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.632882
+ 20
+7.078049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.688882
+ 20
+7.648049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.632882
+ 20
+7.648049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.985882
+ 20
+6.613049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.668382
+ 20
+8.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.985882
+ 20
+6.613049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-0.644882
+ 20
+9.518612
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+3.185118
+ 20
+9.518612
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+3.185118
+ 20
+12.078612
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+12.078612
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+11.837334
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+11.837334
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+10.637008
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+10.637008
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+9.436681
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+9.436681
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+8.236355
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+8.236355
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+7.036029
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+7.036029
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+5.835703
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+5.835703
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+4.635377
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+4.635377
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.988667
+ 20
+3.435051
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+3.435051
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+12.588830
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.416746
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+11.416746
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+10.216420
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+10.216420
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+9.016094
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+9.016094
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+7.815768
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+7.815768
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+6.615442
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+6.615442
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+5.415116
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+5.415116
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+4.214790
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+4.214790
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+3.014463
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+3.014463
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+1.814137
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+1.814137
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+0.613811
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+0.613811
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-0.586515
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-0.586515
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-1.786842
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-1.786842
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.987168
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.987168
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-4.187494
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-4.187494
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-5.387820
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-5.387820
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-6.588146
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-6.588146
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-7.788473
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-7.788473
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-8.988799
+ 20
+3.163212
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-8.988799
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+2.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+3.435051
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+3.435051
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+4.635377
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+4.635377
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+5.835703
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+5.835703
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+7.036030
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+7.036030
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+8.236356
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+8.236356
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+9.436682
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+9.436682
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+10.637008
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+10.637008
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-9.560719
+ 20
+11.837334
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-10.160882
+ 20
+11.837334
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.688882
+ 20
+7.648049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.688882
+ 20
+7.078049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.632882
+ 20
+7.078049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.632882
+ 20
+7.648049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.668382
+ 20
+8.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.988540
+ 20
+6.643437
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.996436
+ 20
+6.672902
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.009327
+ 20
+6.700549
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.026824
+ 20
+6.725536
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.048394
+ 20
+6.747106
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.073382
+ 20
+6.764603
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.101028
+ 20
+6.777495
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.130493
+ 20
+6.785390
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.160882
+ 20
+6.788049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.191270
+ 20
+6.785390
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.220735
+ 20
+6.777495
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.248382
+ 20
+6.764603
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.273370
+ 20
+6.747106
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.294940
+ 20
+6.725536
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.312436
+ 20
+6.700549
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.325328
+ 20
+6.672902
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.333223
+ 20
+6.643437
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.335882
+ 20
+6.613049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.333223
+ 20
+6.582660
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.325328
+ 20
+6.553195
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.312436
+ 20
+6.525549
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.294940
+ 20
+6.500561
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.273370
+ 20
+6.478991
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.248382
+ 20
+6.461494
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.220735
+ 20
+6.448602
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.191270
+ 20
+6.440707
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.160882
+ 20
+6.438049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.130493
+ 20
+6.440707
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.101028
+ 20
+6.448602
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.073382
+ 20
+6.461494
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.048394
+ 20
+6.478991
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.026824
+ 20
+6.500561
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.009327
+ 20
+6.525549
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.996436
+ 20
+6.553195
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.988540
+ 20
+6.582660
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.675864
+ 20
+8.648570
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.698083
+ 20
+8.731493
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.734364
+ 20
+8.809299
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.783605
+ 20
+8.879621
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.844309
+ 20
+8.940325
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.914632
+ 20
+8.989566
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.992437
+ 20
+9.025847
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.075360
+ 20
+9.048066
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.160882
+ 20
+9.055549
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.246403
+ 20
+9.048066
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.329327
+ 20
+9.025847
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.407132
+ 20
+8.989566
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.477455
+ 20
+8.940325
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.538159
+ 20
+8.879621
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.587399
+ 20
+8.809299
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.623680
+ 20
+8.731493
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.645900
+ 20
+8.648570
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.653382
+ 20
+8.563049
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.645900
+ 20
+8.477527
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.623680
+ 20
+8.394604
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.587399
+ 20
+8.316799
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.538159
+ 20
+8.246476
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.477455
+ 20
+8.185772
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.407132
+ 20
+8.136531
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.329327
+ 20
+8.100250
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.246403
+ 20
+8.078031
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.160882
+ 20
+8.070549
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.075360
+ 20
+8.078031
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.992437
+ 20
+8.100250
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.914632
+ 20
+8.136531
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.844309
+ 20
+8.185772
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.783605
+ 20
+8.246476
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.734364
+ 20
+8.316799
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.698083
+ 20
+8.394604
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.675864
+ 20
+8.477527
+ 30
+0.600000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.988540
+ 20
+6.643437
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.996436
+ 20
+6.672902
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.009327
+ 20
+6.700549
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.026824
+ 20
+6.725536
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.048394
+ 20
+6.747106
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.073382
+ 20
+6.764603
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.101028
+ 20
+6.777495
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.130493
+ 20
+6.785390
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.160882
+ 20
+6.788049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.191270
+ 20
+6.785390
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.220735
+ 20
+6.777495
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.248382
+ 20
+6.764603
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.273370
+ 20
+6.747106
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.294940
+ 20
+6.725536
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.312436
+ 20
+6.700549
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.325328
+ 20
+6.672902
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.333223
+ 20
+6.643437
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.335882
+ 20
+6.613049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.333223
+ 20
+6.582660
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.325328
+ 20
+6.553195
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.312436
+ 20
+6.525549
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.294940
+ 20
+6.500561
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.273370
+ 20
+6.478991
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.248382
+ 20
+6.461494
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.220735
+ 20
+6.448602
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.191270
+ 20
+6.440707
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.160882
+ 20
+6.438049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.130493
+ 20
+6.440707
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.101028
+ 20
+6.448602
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.073382
+ 20
+6.461494
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.048394
+ 20
+6.478991
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.026824
+ 20
+6.500561
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.009327
+ 20
+6.525549
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.996436
+ 20
+6.553195
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.988540
+ 20
+6.582660
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.675864
+ 20
+8.648570
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.698083
+ 20
+8.731493
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.734364
+ 20
+8.809299
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.783605
+ 20
+8.879621
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.844309
+ 20
+8.940325
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.914632
+ 20
+8.989566
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.992437
+ 20
+9.025847
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.075360
+ 20
+9.048066
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.160882
+ 20
+9.055549
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.246403
+ 20
+9.048066
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.329327
+ 20
+9.025847
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.407132
+ 20
+8.989566
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.477455
+ 20
+8.940325
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.538159
+ 20
+8.879621
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.587399
+ 20
+8.809299
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.623680
+ 20
+8.731493
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.645900
+ 20
+8.648570
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.653382
+ 20
+8.563049
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.645900
+ 20
+8.477527
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.623680
+ 20
+8.394604
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.587399
+ 20
+8.316799
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.538159
+ 20
+8.246476
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.477455
+ 20
+8.185772
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.407132
+ 20
+8.136531
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.329327
+ 20
+8.100250
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.246403
+ 20
+8.078031
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.160882
+ 20
+8.070549
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-3.075360
+ 20
+8.078031
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.992437
+ 20
+8.100250
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.914632
+ 20
+8.136531
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.844309
+ 20
+8.185772
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.783605
+ 20
+8.246476
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.734364
+ 20
+8.316799
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.698083
+ 20
+8.394604
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 10
+-2.675864
+ 20
+8.477527
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   2
+ 72
+   4
+ 73
+   3
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   2
+ 72
+   3
+ 73
+   1
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   39
+ 72
+   37
+ 73
+   40
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   2
+ 72
+   1
+ 73
+   7
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   6
+ 72
+   2
+ 73
+   7
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   82
+ 73
+   234
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   84
+ 72
+   5
+ 73
+   234
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   8
+ 73
+   10
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   10
+ 72
+   8
+ 73
+   11
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   40
+ 73
+   80
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   13
+ 72
+   12
+ 73
+   14
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   14
+ 72
+   12
+ 73
+   15
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   16
+ 72
+   79
+ 73
+   28
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   16
+ 72
+   18
+ 73
+   17
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   16
+ 72
+   15
+ 73
+   79
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   18
+ 72
+   16
+ 73
+   19
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   19
+ 72
+   25
+ 73
+   24
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   20
+ 72
+   22
+ 73
+   21
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   20
+ 72
+   19
+ 73
+   24
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   22
+ 72
+   20
+ 73
+   23
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   19
+ 72
+   16
+ 73
+   25
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   23
+ 72
+   20
+ 73
+   24
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   25
+ 72
+   16
+ 73
+   28
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   26
+ 72
+   25
+ 73
+   27
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   12
+ 72
+   11
+ 73
+   217
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   27
+ 72
+   25
+ 73
+   28
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   30
+ 72
+   29
+ 73
+   31
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   31
+ 72
+   29
+ 73
+   32
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   197
+ 72
+   37
+ 73
+   36
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   34
+ 72
+   33
+ 73
+   35
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   33
+ 72
+   193
+ 73
+   36
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   35
+ 72
+   33
+ 73
+   36
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   65
+ 72
+   53
+ 73
+   66
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   37
+ 72
+   80
+ 73
+   40
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   38
+ 72
+   37
+ 73
+   39
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   40
+ 72
+   5
+ 73
+   41
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   41
+ 72
+   5
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   42
+ 72
+   41
+ 73
+   43
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   43
+ 72
+   41
+ 73
+   44
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   44
+ 72
+   41
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   46
+ 72
+   45
+ 73
+   47
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   47
+ 72
+   45
+ 73
+   48
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   48
+ 72
+   45
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   69
+ 72
+   52
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   50
+ 72
+   49
+ 73
+   51
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   51
+ 72
+   49
+ 73
+   52
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   52
+ 72
+   49
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   53
+ 72
+   52
+ 73
+   66
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   54
+ 72
+   53
+ 73
+   55
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   73
+ 72
+   70
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   55
+ 72
+   53
+ 73
+   56
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   57
+ 72
+   62
+ 73
+   61
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   57
+ 72
+   56
+ 73
+   62
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   58
+ 72
+   57
+ 73
+   61
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   59
+ 72
+   58
+ 73
+   61
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   56
+ 72
+   53
+ 73
+   65
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   60
+ 72
+   59
+ 73
+   61
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   62
+ 72
+   56
+ 73
+   65
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   63
+ 72
+   62
+ 73
+   64
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   49
+ 72
+   48
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   64
+ 72
+   62
+ 73
+   65
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   67
+ 72
+   66
+ 73
+   68
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   66
+ 72
+   52
+ 73
+   69
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   68
+ 72
+   66
+ 73
+   69
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   71
+ 72
+   70
+ 73
+   72
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   70
+ 72
+   69
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   72
+ 72
+   70
+ 73
+   73
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   76
+ 72
+   74
+ 73
+   77
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   75
+ 72
+   74
+ 73
+   76
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   74
+ 72
+   73
+ 73
+   77
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   45
+ 72
+   44
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   77
+ 72
+   73
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   215
+ 72
+   11
+ 73
+   8
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   29
+ 72
+   28
+ 73
+   79
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   15
+ 72
+   12
+ 73
+   81
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   79
+ 72
+   15
+ 73
+   81
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   80
+ 73
+   82
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   80
+ 72
+   37
+ 73
+   197
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   83
+ 72
+   80
+ 73
+   199
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   33
+ 72
+   32
+ 73
+   190
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   199
+ 72
+   80
+ 73
+   198
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   198
+ 72
+   80
+ 73
+   197
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   197
+ 72
+   36
+ 73
+   196
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   32
+ 72
+   29
+ 73
+   186
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   196
+ 72
+   36
+ 73
+   195
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   195
+ 72
+   36
+ 73
+   194
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   194
+ 72
+   36
+ 73
+   193
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   193
+ 72
+   33
+ 73
+   192
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   192
+ 72
+   33
+ 73
+   191
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   191
+ 72
+   33
+ 73
+   190
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   190
+ 72
+   32
+ 73
+   189
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   189
+ 72
+   32
+ 73
+   188
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   188
+ 72
+   32
+ 73
+   187
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   187
+ 72
+   32
+ 73
+   186
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   29
+ 72
+   79
+ 73
+   185
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   186
+ 72
+   29
+ 73
+   185
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   185
+ 72
+   79
+ 73
+   184
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   184
+ 72
+   79
+ 73
+   183
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   183
+ 72
+   79
+ 73
+   182
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   182
+ 72
+   79
+ 73
+   181
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   181
+ 72
+   79
+ 73
+   180
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   180
+ 72
+   79
+ 73
+   179
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   179
+ 72
+   79
+ 73
+   178
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   178
+ 72
+   79
+ 73
+   177
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   79
+ 72
+   80
+ 73
+   173
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   177
+ 72
+   79
+ 73
+   176
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   176
+ 72
+   79
+ 73
+   175
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   175
+ 72
+   79
+ 73
+   174
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   174
+ 72
+   79
+ 73
+   173
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   173
+ 72
+   80
+ 73
+   172
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   172
+ 72
+   80
+ 73
+   171
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   171
+ 72
+   80
+ 73
+   170
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   170
+ 72
+   80
+ 73
+   169
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   169
+ 72
+   80
+ 73
+   168
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   168
+ 72
+   80
+ 73
+   167
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   167
+ 72
+   80
+ 73
+   166
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   80
+ 72
+   83
+ 73
+   165
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   166
+ 72
+   80
+ 73
+   165
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   234
+ 72
+   82
+ 73
+   233
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   233
+ 72
+   82
+ 73
+   232
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   232
+ 72
+   82
+ 73
+   231
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   231
+ 72
+   82
+ 73
+   230
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   82
+ 72
+   81
+ 73
+   226
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   230
+ 72
+   82
+ 73
+   229
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   229
+ 72
+   82
+ 73
+   228
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   228
+ 72
+   82
+ 73
+   227
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   227
+ 72
+   82
+ 73
+   226
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   226
+ 72
+   81
+ 73
+   225
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   81
+ 72
+   12
+ 73
+   218
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   225
+ 72
+   81
+ 73
+   224
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   8
+ 72
+   7
+ 73
+   213
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   224
+ 72
+   81
+ 73
+   223
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   223
+ 72
+   81
+ 73
+   222
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   222
+ 72
+   81
+ 73
+   221
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   221
+ 72
+   81
+ 73
+   220
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   220
+ 72
+   81
+ 73
+   219
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   219
+ 72
+   81
+ 73
+   218
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   218
+ 72
+   12
+ 73
+   217
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   217
+ 72
+   11
+ 73
+   216
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   216
+ 72
+   11
+ 73
+   215
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   215
+ 72
+   8
+ 73
+   214
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   7
+ 72
+   1
+ 73
+   210
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   214
+ 72
+   8
+ 73
+   213
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   213
+ 72
+   7
+ 73
+   212
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   212
+ 72
+   7
+ 73
+   211
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   211
+ 72
+   7
+ 73
+   210
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   5
+ 73
+   206
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   210
+ 72
+   1
+ 73
+   209
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   209
+ 72
+   1
+ 73
+   208
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   208
+ 72
+   1
+ 73
+   207
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   207
+ 72
+   1
+ 73
+   206
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   206
+ 72
+   5
+ 73
+   205
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   205
+ 72
+   5
+ 73
+   204
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   204
+ 72
+   5
+ 73
+   203
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   203
+ 72
+   5
+ 73
+   202
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   202
+ 72
+   5
+ 73
+   201
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   84
+ 73
+   200
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   201
+ 72
+   5
+ 73
+   200
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   235
+ 72
+   162
+ 73
+   236
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   85
+ 72
+   162
+ 73
+   235
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   261
+ 72
+   260
+ 73
+   132
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   257
+ 72
+   256
+ 73
+   133
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   255
+ 72
+   136
+ 73
+   256
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   161
+ 72
+   253
+ 73
+   252
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   161
+ 72
+   252
+ 73
+   251
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   249
+ 72
+   161
+ 73
+   250
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   248
+ 72
+   161
+ 73
+   249
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   247
+ 72
+   161
+ 73
+   248
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   246
+ 72
+   161
+ 73
+   247
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   246
+ 72
+   245
+ 73
+   161
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   244
+ 72
+   161
+ 73
+   245
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   244
+ 72
+   243
+ 73
+   161
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   108
+ 72
+   104
+ 73
+   103
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   243
+ 72
+   242
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   162
+ 72
+   240
+ 73
+   239
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   132
+ 72
+   130
+ 73
+   129
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   149
+ 72
+   137
+ 73
+   161
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   258
+ 72
+   133
+ 73
+   259
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   158
+ 72
+   4
+ 73
+   159
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   99
+ 72
+   112
+ 73
+   100
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   250
+ 72
+   161
+ 73
+   251
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   287
+ 72
+   154
+ 73
+   153
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   157
+ 72
+   156
+ 73
+   155
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   285
+ 72
+   157
+ 73
+   154
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   157
+ 72
+   155
+ 73
+   154
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   141
+ 72
+   140
+ 73
+   146
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   254
+ 72
+   161
+ 73
+   255
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   153
+ 72
+   152
+ 73
+   151
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   153
+ 73
+   150
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   153
+ 72
+   151
+ 73
+   150
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   132
+ 72
+   262
+ 73
+   261
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   150
+ 73
+   161
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   147
+ 72
+   149
+ 73
+   148
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   161
+ 72
+   137
+ 73
+   136
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   150
+ 72
+   149
+ 73
+   161
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   149
+ 72
+   147
+ 73
+   146
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   262
+ 72
+   132
+ 73
+   263
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   257
+ 72
+   133
+ 73
+   258
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   143
+ 72
+   145
+ 73
+   144
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   263
+ 72
+   129
+ 73
+   264
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   146
+ 72
+   145
+ 73
+   141
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   264
+ 72
+   129
+ 73
+   265
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   145
+ 72
+   143
+ 73
+   142
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   149
+ 72
+   146
+ 73
+   140
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   145
+ 72
+   142
+ 73
+   141
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   265
+ 72
+   129
+ 73
+   266
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   255
+ 72
+   161
+ 73
+   136
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   260
+ 72
+   133
+ 73
+   132
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   140
+ 72
+   139
+ 73
+   138
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   149
+ 72
+   140
+ 73
+   137
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   140
+ 72
+   138
+ 73
+   137
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   267
+ 72
+   266
+ 73
+   129
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   260
+ 72
+   259
+ 73
+   133
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   268
+ 72
+   267
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   136
+ 72
+   135
+ 73
+   134
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   256
+ 72
+   136
+ 73
+   133
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   136
+ 72
+   134
+ 73
+   133
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   269
+ 72
+   268
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   263
+ 72
+   132
+ 73
+   129
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   132
+ 72
+   131
+ 73
+   130
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   162
+ 72
+   238
+ 73
+   237
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   162
+ 72
+   239
+ 73
+   238
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   267
+ 72
+   129
+ 73
+   128
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   267
+ 72
+   128
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   128
+ 72
+   127
+ 73
+   126
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   87
+ 72
+   86
+ 73
+   124
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   128
+ 72
+   126
+ 73
+   125
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   85
+ 72
+   269
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   162
+ 72
+   237
+ 73
+   236
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   124
+ 72
+   123
+ 73
+   122
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   124
+ 72
+   122
+ 73
+   121
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   124
+ 72
+   86
+ 73
+   125
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   124
+ 72
+   121
+ 73
+   87
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   120
+ 72
+   119
+ 73
+   118
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   120
+ 72
+   118
+ 73
+   117
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   242
+ 72
+   241
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   117
+ 72
+   116
+ 73
+   87
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   116
+ 72
+   115
+ 73
+   114
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   116
+ 72
+   114
+ 73
+   113
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   116
+ 72
+   113
+ 73
+   87
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   96
+ 72
+   87
+ 73
+   113
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   112
+ 72
+   111
+ 73
+   110
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   112
+ 72
+   110
+ 73
+   109
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   112
+ 72
+   109
+ 73
+   100
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   109
+ 72
+   108
+ 73
+   103
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   108
+ 72
+   107
+ 73
+   104
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   107
+ 72
+   106
+ 73
+   104
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   113
+ 72
+   112
+ 73
+   99
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   106
+ 72
+   105
+ 73
+   104
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   109
+ 72
+   103
+ 73
+   100
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   103
+ 72
+   102
+ 73
+   101
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   120
+ 72
+   117
+ 73
+   87
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   103
+ 72
+   101
+ 73
+   100
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   113
+ 72
+   99
+ 73
+   96
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   99
+ 72
+   98
+ 73
+   97
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   99
+ 72
+   97
+ 73
+   96
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   95
+ 72
+   92
+ 73
+   87
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   96
+ 72
+   95
+ 73
+   87
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   95
+ 72
+   94
+ 73
+   93
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   95
+ 72
+   93
+ 73
+   92
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   88
+ 72
+   91
+ 73
+   89
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   91
+ 72
+   90
+ 73
+   89
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   92
+ 72
+   91
+ 73
+   88
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   121
+ 72
+   120
+ 73
+   87
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   92
+ 72
+   88
+ 73
+   87
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   164
+ 73
+   304
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   4
+ 72
+   158
+ 73
+   3
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   86
+ 73
+   304
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   240
+ 72
+   162
+ 73
+   241
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   125
+ 72
+   86
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   128
+ 72
+   125
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   163
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   254
+ 72
+   253
+ 73
+   161
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   161
+ 72
+   243
+ 73
+   162
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   304
+ 73
+   303
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   303
+ 73
+   302
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   302
+ 73
+   301
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   301
+ 73
+   300
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   163
+ 73
+   296
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   300
+ 73
+   299
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   299
+ 73
+   298
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   298
+ 73
+   297
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   297
+ 73
+   296
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   296
+ 73
+   295
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   153
+ 72
+   160
+ 73
+   288
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   295
+ 73
+   294
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   158
+ 72
+   157
+ 73
+   283
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   294
+ 73
+   293
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   293
+ 73
+   292
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   292
+ 73
+   291
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   291
+ 73
+   290
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   290
+ 73
+   289
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   289
+ 73
+   288
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   153
+ 72
+   288
+ 73
+   287
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   154
+ 72
+   287
+ 73
+   286
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   154
+ 72
+   286
+ 73
+   285
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   157
+ 72
+   285
+ 73
+   284
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   158
+ 73
+   280
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   157
+ 72
+   284
+ 73
+   283
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   158
+ 72
+   283
+ 73
+   282
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   158
+ 72
+   282
+ 73
+   281
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   158
+ 72
+   281
+ 73
+   280
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   3
+ 73
+   276
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   280
+ 73
+   279
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   279
+ 73
+   278
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   278
+ 73
+   277
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   277
+ 73
+   276
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   276
+ 73
+   275
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   275
+ 73
+   274
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   274
+ 73
+   273
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   273
+ 73
+   272
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   272
+ 73
+   271
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   164
+ 72
+   86
+ 73
+   270
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   271
+ 73
+   270
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   6
+ 72
+   159
+ 73
+   4
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   6
+ 72
+   4
+ 73
+   2
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   159
+ 72
+   6
+ 73
+   7
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   159
+ 72
+   7
+ 73
+   158
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   8
+ 72
+   158
+ 73
+   7
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   158
+ 72
+   8
+ 73
+   157
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   157
+ 73
+   8
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   157
+ 72
+   9
+ 73
+   156
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   10
+ 72
+   156
+ 73
+   9
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   156
+ 72
+   10
+ 73
+   155
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   155
+ 72
+   10
+ 73
+   11
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   155
+ 72
+   11
+ 73
+   154
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   12
+ 72
+   154
+ 73
+   11
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   154
+ 72
+   12
+ 73
+   153
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   13
+ 72
+   153
+ 73
+   12
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   153
+ 72
+   13
+ 73
+   152
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   14
+ 72
+   152
+ 73
+   13
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   152
+ 72
+   14
+ 73
+   151
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   151
+ 72
+   14
+ 73
+   15
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   151
+ 72
+   15
+ 73
+   150
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   16
+ 72
+   150
+ 73
+   15
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   150
+ 72
+   16
+ 73
+   149
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   17
+ 72
+   149
+ 73
+   16
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   149
+ 72
+   17
+ 73
+   148
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   18
+ 72
+   148
+ 73
+   17
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   148
+ 72
+   18
+ 73
+   147
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   147
+ 72
+   18
+ 73
+   19
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   147
+ 72
+   19
+ 73
+   146
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   20
+ 72
+   146
+ 73
+   19
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   146
+ 72
+   20
+ 73
+   145
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   21
+ 72
+   145
+ 73
+   20
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   145
+ 72
+   21
+ 73
+   144
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   22
+ 72
+   144
+ 73
+   21
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   144
+ 72
+   22
+ 73
+   143
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   143
+ 72
+   22
+ 73
+   23
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   143
+ 72
+   23
+ 73
+   142
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   142
+ 72
+   23
+ 73
+   24
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   142
+ 72
+   24
+ 73
+   141
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   141
+ 72
+   24
+ 73
+   25
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   141
+ 72
+   25
+ 73
+   140
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   26
+ 72
+   140
+ 73
+   25
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   140
+ 72
+   26
+ 73
+   139
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   139
+ 72
+   26
+ 73
+   27
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   139
+ 72
+   27
+ 73
+   138
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   138
+ 72
+   27
+ 73
+   28
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   138
+ 72
+   28
+ 73
+   137
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   137
+ 72
+   28
+ 73
+   29
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   137
+ 72
+   29
+ 73
+   136
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   30
+ 72
+   136
+ 73
+   29
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   136
+ 72
+   30
+ 73
+   135
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   135
+ 72
+   30
+ 73
+   31
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   135
+ 72
+   31
+ 73
+   134
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   134
+ 72
+   31
+ 73
+   32
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   134
+ 72
+   32
+ 73
+   133
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   133
+ 72
+   32
+ 73
+   33
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   133
+ 72
+   33
+ 73
+   132
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   34
+ 72
+   132
+ 73
+   33
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   132
+ 72
+   34
+ 73
+   131
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   131
+ 72
+   34
+ 73
+   35
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   131
+ 72
+   35
+ 73
+   130
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   130
+ 72
+   35
+ 73
+   36
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   130
+ 72
+   36
+ 73
+   129
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   129
+ 72
+   36
+ 73
+   37
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   129
+ 72
+   37
+ 73
+   128
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   128
+ 72
+   37
+ 73
+   38
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   128
+ 72
+   38
+ 73
+   127
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   127
+ 72
+   38
+ 73
+   39
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   127
+ 72
+   39
+ 73
+   126
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   126
+ 72
+   39
+ 73
+   40
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   126
+ 72
+   40
+ 73
+   125
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   125
+ 72
+   40
+ 73
+   41
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   125
+ 72
+   41
+ 73
+   124
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   42
+ 72
+   124
+ 73
+   41
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   124
+ 72
+   42
+ 73
+   123
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   123
+ 72
+   42
+ 73
+   43
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   123
+ 72
+   43
+ 73
+   122
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   122
+ 72
+   43
+ 73
+   44
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   122
+ 72
+   44
+ 73
+   121
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   121
+ 72
+   44
+ 73
+   45
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   121
+ 72
+   45
+ 73
+   120
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   46
+ 72
+   120
+ 73
+   45
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   120
+ 72
+   46
+ 73
+   119
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   119
+ 72
+   46
+ 73
+   47
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   119
+ 72
+   47
+ 73
+   118
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   118
+ 72
+   47
+ 73
+   48
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   118
+ 72
+   48
+ 73
+   117
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   117
+ 72
+   48
+ 73
+   49
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   117
+ 72
+   49
+ 73
+   116
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   50
+ 72
+   116
+ 73
+   49
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   116
+ 72
+   50
+ 73
+   115
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   115
+ 72
+   50
+ 73
+   51
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   115
+ 72
+   51
+ 73
+   114
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   114
+ 72
+   51
+ 73
+   52
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   114
+ 72
+   52
+ 73
+   113
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   113
+ 72
+   52
+ 73
+   53
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   113
+ 72
+   53
+ 73
+   112
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   54
+ 72
+   112
+ 73
+   53
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   112
+ 72
+   54
+ 73
+   111
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   111
+ 72
+   54
+ 73
+   55
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   111
+ 72
+   55
+ 73
+   110
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   110
+ 72
+   55
+ 73
+   56
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   110
+ 72
+   56
+ 73
+   109
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   109
+ 72
+   56
+ 73
+   57
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   109
+ 72
+   57
+ 73
+   108
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   58
+ 72
+   108
+ 73
+   57
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   108
+ 72
+   58
+ 73
+   107
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   107
+ 72
+   58
+ 73
+   59
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   107
+ 72
+   59
+ 73
+   106
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   106
+ 72
+   59
+ 73
+   60
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   106
+ 72
+   60
+ 73
+   105
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   61
+ 72
+   105
+ 73
+   60
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   105
+ 72
+   61
+ 73
+   104
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   104
+ 72
+   61
+ 73
+   62
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   104
+ 72
+   62
+ 73
+   103
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   103
+ 72
+   62
+ 73
+   63
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   103
+ 72
+   63
+ 73
+   102
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   102
+ 72
+   63
+ 73
+   64
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   102
+ 72
+   64
+ 73
+   101
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   65
+ 72
+   101
+ 73
+   64
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   101
+ 72
+   65
+ 73
+   100
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   100
+ 72
+   65
+ 73
+   66
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   100
+ 72
+   66
+ 73
+   99
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   99
+ 72
+   66
+ 73
+   67
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   99
+ 72
+   67
+ 73
+   98
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   98
+ 72
+   67
+ 73
+   68
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   98
+ 72
+   68
+ 73
+   97
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   69
+ 72
+   97
+ 73
+   68
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   97
+ 72
+   69
+ 73
+   96
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   96
+ 72
+   69
+ 73
+   70
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   96
+ 72
+   70
+ 73
+   95
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   95
+ 72
+   70
+ 73
+   71
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   95
+ 72
+   71
+ 73
+   94
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   94
+ 72
+   71
+ 73
+   72
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   94
+ 72
+   72
+ 73
+   93
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   73
+ 72
+   93
+ 73
+   72
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   93
+ 72
+   73
+ 73
+   92
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   92
+ 72
+   73
+ 73
+   74
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   92
+ 72
+   74
+ 73
+   91
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   91
+ 72
+   74
+ 73
+   75
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   91
+ 72
+   75
+ 73
+   90
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   90
+ 72
+   75
+ 73
+   76
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   90
+ 72
+   76
+ 73
+   89
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   83
+ 72
+   199
+ 73
+   269
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   199
+ 72
+   198
+ 73
+   268
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   198
+ 72
+   197
+ 73
+   267
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   197
+ 72
+   196
+ 73
+   266
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   196
+ 72
+   195
+ 73
+   265
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   195
+ 72
+   194
+ 73
+   264
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   194
+ 72
+   193
+ 73
+   263
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   193
+ 72
+   192
+ 73
+   262
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   192
+ 72
+   191
+ 73
+   261
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   191
+ 72
+   190
+ 73
+   260
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   190
+ 72
+   189
+ 73
+   259
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   189
+ 72
+   188
+ 73
+   258
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   188
+ 72
+   187
+ 73
+   257
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   187
+ 72
+   186
+ 73
+   256
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   186
+ 72
+   185
+ 73
+   255
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   185
+ 72
+   184
+ 73
+   254
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   184
+ 72
+   183
+ 73
+   253
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   183
+ 72
+   182
+ 73
+   252
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   182
+ 72
+   181
+ 73
+   251
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   181
+ 72
+   180
+ 73
+   250
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   180
+ 72
+   179
+ 73
+   249
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   179
+ 72
+   178
+ 73
+   248
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   178
+ 72
+   177
+ 73
+   247
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   177
+ 72
+   176
+ 73
+   246
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   176
+ 72
+   175
+ 73
+   245
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   175
+ 72
+   174
+ 73
+   244
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   174
+ 72
+   173
+ 73
+   243
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   173
+ 72
+   172
+ 73
+   242
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   172
+ 72
+   171
+ 73
+   241
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   171
+ 72
+   170
+ 73
+   240
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   170
+ 72
+   169
+ 73
+   239
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   169
+ 72
+   168
+ 73
+   238
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   168
+ 72
+   167
+ 73
+   237
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   167
+ 72
+   166
+ 73
+   236
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   166
+ 72
+   165
+ 73
+   235
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   165
+ 72
+   83
+ 73
+   85
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   165
+ 72
+   85
+ 73
+   235
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   166
+ 72
+   235
+ 73
+   236
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   167
+ 72
+   236
+ 73
+   237
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   168
+ 72
+   237
+ 73
+   238
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   169
+ 72
+   238
+ 73
+   239
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   170
+ 72
+   239
+ 73
+   240
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   171
+ 72
+   240
+ 73
+   241
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   172
+ 72
+   241
+ 73
+   242
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   173
+ 72
+   242
+ 73
+   243
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   174
+ 72
+   243
+ 73
+   244
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   175
+ 72
+   244
+ 73
+   245
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   176
+ 72
+   245
+ 73
+   246
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   177
+ 72
+   246
+ 73
+   247
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   178
+ 72
+   247
+ 73
+   248
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   179
+ 72
+   248
+ 73
+   249
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   180
+ 72
+   249
+ 73
+   250
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   181
+ 72
+   250
+ 73
+   251
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   182
+ 72
+   251
+ 73
+   252
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   183
+ 72
+   252
+ 73
+   253
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   184
+ 72
+   253
+ 73
+   254
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   185
+ 72
+   254
+ 73
+   255
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   186
+ 72
+   255
+ 73
+   256
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   187
+ 72
+   256
+ 73
+   257
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   188
+ 72
+   257
+ 73
+   258
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   189
+ 72
+   258
+ 73
+   259
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   190
+ 72
+   259
+ 73
+   260
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   191
+ 72
+   260
+ 73
+   261
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   192
+ 72
+   261
+ 73
+   262
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   193
+ 72
+   262
+ 73
+   263
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   194
+ 72
+   263
+ 73
+   264
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   195
+ 72
+   264
+ 73
+   265
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   196
+ 72
+   265
+ 73
+   266
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   197
+ 72
+   266
+ 73
+   267
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   198
+ 72
+   267
+ 73
+   268
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   199
+ 72
+   268
+ 73
+   269
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   83
+ 72
+   269
+ 73
+   85
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   160
+ 72
+   161
+ 73
+   81
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   81
+ 72
+   161
+ 73
+   79
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   162
+ 72
+   80
+ 73
+   79
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   161
+ 72
+   162
+ 73
+   79
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   162
+ 72
+   163
+ 73
+   80
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   80
+ 72
+   163
+ 73
+   82
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   163
+ 72
+   160
+ 73
+   82
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   82
+ 72
+   160
+ 73
+   81
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   84
+ 72
+   234
+ 73
+   304
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   234
+ 72
+   233
+ 73
+   303
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   233
+ 72
+   232
+ 73
+   302
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   232
+ 72
+   231
+ 73
+   301
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   231
+ 72
+   230
+ 73
+   300
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   230
+ 72
+   229
+ 73
+   299
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   229
+ 72
+   228
+ 73
+   298
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   228
+ 72
+   227
+ 73
+   297
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   227
+ 72
+   226
+ 73
+   296
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   226
+ 72
+   225
+ 73
+   295
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   225
+ 72
+   224
+ 73
+   294
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   224
+ 72
+   223
+ 73
+   293
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   223
+ 72
+   222
+ 73
+   292
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   222
+ 72
+   221
+ 73
+   291
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   221
+ 72
+   220
+ 73
+   290
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   220
+ 72
+   219
+ 73
+   289
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   219
+ 72
+   218
+ 73
+   288
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   218
+ 72
+   217
+ 73
+   287
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   217
+ 72
+   216
+ 73
+   286
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   216
+ 72
+   215
+ 73
+   285
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   215
+ 72
+   214
+ 73
+   284
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   214
+ 72
+   213
+ 73
+   283
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   213
+ 72
+   212
+ 73
+   282
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   212
+ 72
+   211
+ 73
+   281
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   211
+ 72
+   210
+ 73
+   280
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   210
+ 72
+   209
+ 73
+   279
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   209
+ 72
+   208
+ 73
+   278
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   208
+ 72
+   207
+ 73
+   277
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   207
+ 72
+   206
+ 73
+   276
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   206
+ 72
+   205
+ 73
+   275
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   205
+ 72
+   204
+ 73
+   274
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   204
+ 72
+   203
+ 73
+   273
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   203
+ 72
+   202
+ 73
+   272
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   202
+ 72
+   201
+ 73
+   271
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   201
+ 72
+   200
+ 73
+   270
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   200
+ 72
+   84
+ 73
+   164
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   200
+ 72
+   164
+ 73
+   270
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   201
+ 72
+   270
+ 73
+   271
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   202
+ 72
+   271
+ 73
+   272
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   203
+ 72
+   272
+ 73
+   273
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   204
+ 72
+   273
+ 73
+   274
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   205
+ 72
+   274
+ 73
+   275
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   206
+ 72
+   275
+ 73
+   276
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   207
+ 72
+   276
+ 73
+   277
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   208
+ 72
+   277
+ 73
+   278
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   209
+ 72
+   278
+ 73
+   279
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   210
+ 72
+   279
+ 73
+   280
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   211
+ 72
+   280
+ 73
+   281
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   212
+ 72
+   281
+ 73
+   282
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   213
+ 72
+   282
+ 73
+   283
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   214
+ 72
+   283
+ 73
+   284
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   215
+ 72
+   284
+ 73
+   285
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   216
+ 72
+   285
+ 73
+   286
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   217
+ 72
+   286
+ 73
+   287
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   218
+ 72
+   287
+ 73
+   288
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   219
+ 72
+   288
+ 73
+   289
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   220
+ 72
+   289
+ 73
+   290
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   221
+ 72
+   290
+ 73
+   291
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   222
+ 72
+   291
+ 73
+   292
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   223
+ 72
+   292
+ 73
+   293
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   224
+ 72
+   293
+ 73
+   294
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   225
+ 72
+   294
+ 73
+   295
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   226
+ 72
+   295
+ 73
+   296
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   227
+ 72
+   296
+ 73
+   297
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   228
+ 72
+   297
+ 73
+   298
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   229
+ 72
+   298
+ 73
+   299
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   230
+ 72
+   299
+ 73
+   300
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   231
+ 72
+   300
+ 73
+   301
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   232
+ 72
+   301
+ 73
+   302
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   233
+ 72
+   302
+ 73
+   303
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   234
+ 72
+   303
+ 73
+   304
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   84
+ 72
+   304
+ 73
+   164
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   77
+ 72
+   89
+ 73
+   76
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   89
+ 72
+   77
+ 73
+   88
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   5
+ 73
+   1
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   86
+ 72
+   1
+ 73
+   3
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   87
+ 73
+   78
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   87
+ 72
+   5
+ 73
+   86
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   78
+ 72
+   88
+ 73
+   77
+  0
+VERTEX
+  8
+back_side_plate_for_encasing_assuming_this_is_the_front
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   88
+ 72
+   78
+ 73
+   87
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF

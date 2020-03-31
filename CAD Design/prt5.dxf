@@ -1,0 +1,1706 @@
+999
+FBX AutoCAD (*.DXF) exporter
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1008
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$TILEMODE
+ 70
+   1
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+ 70
+   1
+  0
+LTYPE
+  2
+CONTINUOUS
+ 70
+   64
+  3
+Solid line
+ 72
+   65
+ 73
+   0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+ 70
+   1
+  0
+LAYER
+  2
+back_attachment_snapon
+ 70
+   0
+ 62
+   254
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+back_attachment_snapon
+ 62
+   254
+ 66
+   1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   64
+ 71
+   32
+ 72
+   60
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+0.000000
+ 30
+2.591806
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+0.000000
+ 30
+1.218194
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.584200
+ 20
+0.000000
+ 30
+1.335034
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.584200
+ 20
+0.000000
+ 30
+0.569966
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+0.000000
+ 30
+0.686806
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+0.000000
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+5.080000
+ 20
+0.000000
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+5.080000
+ 20
+0.000000
+ 30
+3.810000
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+0.000000
+ 30
+3.810000
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+0.000000
+ 30
+3.123194
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.584200
+ 20
+0.000000
+ 30
+3.240034
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.584200
+ 20
+0.000000
+ 30
+2.474966
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.000000
+ 20
+0.762000
+ 30
+0.686806
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.584200
+ 20
+0.762000
+ 30
+0.569966
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.584200
+ 20
+0.762000
+ 30
+1.335034
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+0.762000
+ 30
+1.218194
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.000000
+ 20
+0.762000
+ 30
+2.591806
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+0.762000
+ 30
+3.123194
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+2.540000
+ 30
+3.810000
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+0.000000
+ 20
+2.540000
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+5.080000
+ 20
+0.254000
+ 30
+3.238500
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+5.080000
+ 20
+0.254000
+ 30
+0.571500
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+5.080000
+ 20
+2.286000
+ 30
+3.238500
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+5.080000
+ 20
+2.286000
+ 30
+0.571500
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+5.080000
+ 20
+2.540000
+ 30
+0.000000
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+5.080000
+ 20
+2.540000
+ 30
+3.810000
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.584200
+ 20
+0.762000
+ 30
+3.240034
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+-0.584200
+ 20
+0.762000
+ 30
+2.474966
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+2.540000
+ 20
+0.254000
+ 30
+3.238500
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+2.540000
+ 20
+2.286000
+ 30
+3.238500
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+2.540000
+ 20
+2.286000
+ 30
+0.571500
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 10
+2.540000
+ 20
+0.254000
+ 30
+0.571500
+ 70
+   192
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   12
+ 73
+   11
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   11
+ 73
+   10
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   10
+ 73
+   8
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   10
+ 72
+   9
+ 73
+   8
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   8
+ 73
+   7
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   7
+ 73
+   2
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   7
+ 72
+   6
+ 73
+   5
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   4
+ 73
+   3
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   7
+ 72
+   5
+ 73
+   2
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   3
+ 73
+   2
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   13
+ 72
+   16
+ 73
+   15
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   13
+ 72
+   15
+ 73
+   14
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   19
+ 72
+   16
+ 73
+   20
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   20
+ 72
+   13
+ 73
+   6
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   13
+ 72
+   5
+ 73
+   6
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   16
+ 72
+   13
+ 73
+   20
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   19
+ 72
+   9
+ 73
+   18
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   19
+ 72
+   18
+ 73
+   17
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   10
+ 73
+   18
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   1
+ 72
+   16
+ 73
+   17
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   16
+ 72
+   19
+ 73
+   17
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   16
+ 72
+   1
+ 73
+   2
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   26
+ 72
+   23
+ 73
+   8
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   22
+ 72
+   24
+ 73
+   7
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   23
+ 72
+   21
+ 73
+   8
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   21
+ 72
+   22
+ 73
+   7
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   8
+ 72
+   21
+ 73
+   7
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   7
+ 72
+   24
+ 73
+   25
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   24
+ 72
+   23
+ 73
+   26
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   25
+ 72
+   24
+ 73
+   26
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   19
+ 72
+   25
+ 73
+   26
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   25
+ 72
+   19
+ 73
+   20
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   19
+ 73
+   26
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   9
+ 72
+   26
+ 73
+   8
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   6
+ 72
+   7
+ 73
+   20
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   20
+ 72
+   7
+ 73
+   25
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   28
+ 72
+   17
+ 73
+   18
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   28
+ 72
+   18
+ 73
+   27
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   21
+ 72
+   23
+ 73
+   29
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   23
+ 72
+   30
+ 73
+   29
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   24
+ 72
+   31
+ 73
+   30
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   24
+ 72
+   30
+ 73
+   23
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   24
+ 72
+   22
+ 73
+   31
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   22
+ 72
+   32
+ 73
+   31
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   21
+ 72
+   29
+ 73
+   32
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   21
+ 72
+   32
+ 73
+   22
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   29
+ 72
+   30
+ 73
+   32
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   32
+ 72
+   30
+ 73
+   31
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   18
+ 72
+   10
+ 73
+   11
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   18
+ 72
+   11
+ 73
+   27
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   27
+ 72
+   11
+ 73
+   12
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   27
+ 72
+   12
+ 73
+   28
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   28
+ 72
+   12
+ 73
+   1
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   28
+ 72
+   1
+ 73
+   17
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   5
+ 72
+   13
+ 73
+   4
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   4
+ 72
+   13
+ 73
+   14
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   4
+ 72
+   14
+ 73
+   3
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   14
+ 73
+   15
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   3
+ 72
+   15
+ 73
+   2
+  0
+VERTEX
+  8
+back_attachment_snapon
+ 62
+   254
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+   128
+ 71
+   2
+ 72
+   15
+ 73
+   16
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
